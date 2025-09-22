@@ -1,0 +1,2 @@
+/home/munyao/Documents/flutter_projects/mi_card_flutter/android/app/.cxx/Debug/46o522j2/x86/CMakeFiles/edit_cache.dir
+/home/munyao/Documents/flutter_projects/mi_card_flutter/android/app/.cxx/Debug/46o522j2/x86/CMakeFiles/rebuild_cache.dir
